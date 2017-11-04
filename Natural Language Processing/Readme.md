@@ -19,7 +19,7 @@ It is often used  to **analyse emotional situation** of interacting person, like
 ##### About Me
 * I'm a self-taught programmer, I referred many articles, videos, books and want to provide easy way for other people to understand.
 * I might make errors, mistakes because I'm not a professional at this content, feel free to **correct me**.
-* **I belive in teaching others, enhances knowledge about concepts**.
+* **I believe in teaching others, enhances knowledge about concepts**.
 * I will make learning so precise and edge to the point. Refer any time, contents will be uploaded slowly, before starting any new concept I'll introduce it clearly.
 * **_Open for Contributions, feel free to pull and merge requests_**.
 
