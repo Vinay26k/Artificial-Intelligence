@@ -1,6 +1,6 @@
 # Natural Language Processing
 Natural Language Processing is a technique of making any system understand the human interaction language.<br>
-It is often used  to **analyse emotional situation** of interacting person, like positive, negative about situation i.e, **sentiment analysis**,
+It is often used  to **analyse context, emotions, polarity of situations** of an interacting person, like positive, negative, what they are talking about in that point of time i.e, **sentiment analysis**,
 **predictions**, **impact of business growth**, **stock market trading opinions** etc..<br>
 
 ### Pre-requisites (Knowledge)
